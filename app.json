@@ -1,5 +1,5 @@
 {
-    "name": "Legend ダ ᴍᴜsɪᴄ",
+    "name": "ᴀᴋᴋɪ ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/8f4962702b6327f311595.jpg",
     "keywords": [
@@ -44,7 +44,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "Legend ダ ᴍᴜsɪᴄ",
+        "value": "ᴀᴋᴋɪ ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
